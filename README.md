@@ -1,29 +1,33 @@
-Movix
-Movix is a movie app built with React 18 and its latest features, designed to provide a seamless user experience for exploring and watching movies and TV shows. The app utilizes React hooks and state management, creating an easy maintainable and scalable folder structure.
+# 🎬 Movix
 
-Technologies Used
-Global state containers with Redux Toolkit
-Fetching data from TMDB API with Axios
-Creating custom hooks
-Creating carousel/slider without library
-Infinite scrolling
-React Router DOM Version 6
-Loading Skeleton while fetching data from API
-Error handling & 404 forbidden page
-Responsive layout with perfectly placed media queries
-Tech Stack
-React, Redux, Sass
+**Movix** is a movie app built with **React 18** and its latest features, designed to provide a seamless user experience for exploring and watching movies and TV shows. It utilizes React hooks, Redux Toolkit, and Axios with a scalable and maintainable folder structure.
 
-Getting Started
-Clone the repository: git clone https://github.com/<your_username>/movix.git
-Install dependencies: npm install
-Run the app: npm dev
+---
 
-Usage
-After starting the app, you can access it in your web browser at http://127.0.0.1:5173/. The app will display a selection of movies and TV shows on the home screen. You can explore different sections of the app using the navigation menu, search for specific content using the search bar, and enjoy a personalized streaming experience.
+## 🚀 Features
 
-Contributing
-If you'd like to contribute to Movix, please create a pull request with your changes. We welcome contributions from anyone, and appreciate your help!
+- Global state management with **Redux Toolkit**
+- Fetching movie data from **TMDB API** using **Axios**
+- **Custom React hooks** for reusability
+- **Carousel/Slider** built from scratch (no external libraries)
+- **Infinite scrolling** for smooth content loading
+- Routing with **React Router DOM v6**
+- **Loading skeleton** UI while fetching data
+- **Error handling** and custom **404 page**
+- Fully **responsive layout** with media queries
 
-Acknowledgements
-The TMDB API for providing movie and TV show data.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React 18, Redux Toolkit, React Router DOM
+- **Styling**: Sass (SCSS)
+- **API**: [TMDB (The Movie Database)](https://www.themoviedb.org/documentation/api)
+
+---
+
+## 📦 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/<your_username>/movix.git
