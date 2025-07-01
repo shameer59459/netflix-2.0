@@ -31,3 +31,34 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/<your_username>/movix.git
+
+2. Install dependencies:  
+
+# Copy  
+npm install
+
+3. Run the app:  
+ 
+# Copy  
+npm run dev
+
+🌐 Usage  
+After starting the app, you can access it in your web browser at:
+
+cpp  
+Copy  
+Edit  
+# Copy  
+http://127.0.0.1:5173/
+
+The app will display a selection of movies and TV shows on the home screen.  
+You can explore different sections of the app using the navigation menu.  
+Search for specific content using the search bar.  
+Enjoy a personalized streaming experience with smooth UI interactions.
+
+🤝 Contributing  
+If you'd like to contribute to Movix, please create a pull request with your changes.  
+We welcome contributions from anyone and appreciate your help!
+
+🙏 Acknowledgements  
+The TMDB API for providing movie and TV show data.
